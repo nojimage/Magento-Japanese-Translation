@@ -88,8 +88,6 @@
 "Invalid FedEx XML code type: %s","不正なFeedExのXMLコードタイプです: %s"
 "Invalid UPS CGI code for type %s: %s","%sタイプに対して不正なUPS CGIコードです: %s"
 "Invalid UPS CGI code type: %s","不正なUPS CGIコードタイプです: %s"
-"Invalid USPS XML code for type %s: %s","%sタイプに対して不正なUSPS XMLコードです: %s"
-"Invalid USPS XML code type: %s","不正なUSPS XMLコードタイプです: %s"
 "Kilograms","Kilograms"
 "Large","大きい"
 "Letter","手紙"

@@ -1,6 +1,6 @@
 "%s Index process is working now. Please try run this process later.","%s件のインデックス処理が実行中です。後でやり直してください。"
 "%s index was rebuilt.","%sのインデックスを再構築しました。"
-"%s' Index Process Information","%sのインデックス処理情報"
+"'%s' Index Process Information","'%sのインデックス処理情報"
 "Action","アクション"
 "Cannot initialize the indexer process.","インデックス処理を初期化できません。"
 "Change Index Mode","インデックスモード変更"

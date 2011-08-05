@@ -105,7 +105,6 @@
 "The database server version does not match system requirements (required: %s, actual: %s).","データベースサーバのバージョンがシステムの必要条件を満たしていません (必要条件: %s, 現在: %s)。"
 "The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.","テーブルプレフィックスは半角英数字とアンダーバーで指定してください。最初の文字は半角英字である必要があります。"
 "There was a problem installing Magento packages. Please read the log, correct errors and try again.","Magentoパッケージのインストール中に問題が発生しました。ログを確認の上、やり直してください。"
-"This URL is invalid.","このURLは不正です。"
 "Time Zone","タイムゾーン"
 "Use Secure URLs (SSL)","セキュアURLを使う(SSL)"
 "Use Web Server (Apache) Rewrites","ウェブサーバーリライト(Apache)を使用する"
