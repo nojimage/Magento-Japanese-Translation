@@ -58,7 +58,7 @@
 "Checkout as a Guest or Register","ゲストまたは会員として購入"
 "Checkout with Multiple Addresses","複数住所へ配送する"
 "City","市区町村"
-"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","<a href=""%s"" onclick=""this.target=\'_blank\'"">ここをクリック</a>して注文確認をコピーしてください。"
+"Click <a href=""%s"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","<a href=""%s"" onclick=""this.target='_blank'"">ここをクリック</a>すると注文内容の控えを印刷できます。"
 "Click <a href=""%s"">here</a> to continue shopping.","<a href=""%s"">ここ</a>をクリックしてお買い物を続けてください。"
 "Close","閉じる"
 "Company","会社名"
