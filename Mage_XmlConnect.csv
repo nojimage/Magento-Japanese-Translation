@@ -327,7 +327,7 @@
 "One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.","One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
 "Onepage checkout is disabled.","Onepage checkout is disabled."
 "Only free apps are allowed in this version.","Only free apps are allowed in this version."
-"Only registered users can write reviews. Please, log in or register.","Only registered users can write reviews. Please, log in or register."
+"Only registered users can write reviews. Please, log in or register.","レビューの投稿にはユーザー登録が必要です。ログインするかユーザー登録を行ってください。"
 "Options menu items","Options menu items"
 "POST data is not valid.","POST data is not valid."
 "Pages","Pages"
